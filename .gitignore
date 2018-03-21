@@ -25,3 +25,11 @@ hs_err_pid*
 
 /starter-test.iml
 /.idea/
+pom.xml
+src/
+target/classes/META-INF/
+target/classes/application.properties
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
+/target/
